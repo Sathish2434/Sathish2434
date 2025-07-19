@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathish2434" alt="sathish2434" /></a> </p>
 
-- 🔭 I’m currently working on [E-Commerce Website](https://github.com/Sathish2434/E-com)
+- 🔭 I’m currently working on [Point of Sale (POS) system](https://github.com/Sathish2434/Point_of-_Sale_system-POS-.git)
 
 - 🌱 I’m currently learning **React.js, Full-Stack development with Java.**
 
-- 👯 I’m looking to collaborate on [E-Commerce Website](https://github.com/Sathish2434/E-com)
+- 👯 I’m looking to collaborate on [Point of Sale (POS) system](https://github.com/Sathish2434/Point_of-_Sale_system-POS-.git)
 
-- 🤝 I’m looking for help with **Online Booking System (Hotel/Doctor/Car Rental)**
+- 🤝 I’m looking for help with **Point of Sale (POS) system**
 
 - 👨‍💻 All of my projects are available at [https://sathishsm.netlify.app/](https://sathishsm.netlify.app/)
 
